@@ -1,0 +1,25 @@
+h1{
+    font-style: normal;
+    font-size: x-large;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+h2,
+h3,
+h4, 
+h5 {
+    font-style: italic;
+    font-size: large;
+    text-align: left;
+    color: teal;
+    
+}
+
+div{
+    font-weight:400;
+    font-style: oblique;
+    color: black;
+    background-color: lavender;
+}

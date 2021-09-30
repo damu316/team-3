@@ -1,0 +1,17 @@
+.img{
+    height: 60%;
+    width: 60%;
+   text-align: right;
+}
+
+.header{
+    background: #d9d9d9; 
+    margin: 0%; 
+    padding: 2%;
+    text-align: center;
+    z-index: 1;
+}
+
+body{
+    font-family: "Comic sans ms" , "times new roman";
+}

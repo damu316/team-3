@@ -1,0 +1,22 @@
+html{
+    background-image:url(https://www.pixsavor.com/uploads/large/abstract/abstract-waves-light-background.jpg);
+}
+h1{
+    text-align: center;
+    color:blueviolet;
+    font-family: Helvetica;
+    font-size: 40px;
+
+}
+h2{
+    background: white;
+    font-family: Helvetica;
+    color:blueviolet;
+    font-style: italic;
+}
+h3{
+    
+    font-family: Helvetica;
+    color:blueviolet;
+    font-style: italic;
+}
